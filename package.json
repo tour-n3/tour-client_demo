@@ -29,8 +29,6 @@
     "@mui/material": "^5.14.20",
     "@mui/system": "^5.14.20",
     "@mui/x-date-pickers": "^6.18.4",
-    "@react-buddy/ide-toolbox-next": "^2.4.1",
-    "@react-buddy/palette-mui": "^5.0.1",
     "date-fns": "^2.30.0",
     "framer-motion": "^10.16.16",
     "google-map-react": "^2.2.1",
@@ -79,7 +77,6 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-unused-imports": "^3.0.0",
     "prettier": "^3.1.1",
-    "react-devtools": "^6.0.1",
     "typescript": "^5.3.3"
   }
 }
