@@ -1,7 +1,7 @@
 name: tour-project
 
 services:
-  tour-backend:
+  tour-client:
     build: .
     image: tour-client:latest
     ports:
